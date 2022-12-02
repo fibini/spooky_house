@@ -14,3 +14,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+# Live version (https://spooky-house-omega.vercel.app/)
